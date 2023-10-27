@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=HandTool
+comment0.text=\r\n\ This\ class\ models\ a\ different\ kind\ of\ Tool\ that\ can\ be\ found\ in\ the\ \r\n\ Shop\ class.\ It\ contains\ properties\ that\ are\ unique\ to\ its\ operation\r\n\ and\ inherits\ other\ properties\ from\ the\ Tool\ superClass\r\n\ \r\n\ @author\ (Francois\ Ngwasho)\r\n\ @version\ (22-02-2023)\r\n
+comment1.params=
+comment1.target=boolean\ getIsSharpenable()
+comment1.text=\r\n\ Accessor\ method\ for\ HandTools\r\n\ \r\n\ @return\ The\ HandTool\ fields\ values.\r\n
+comment2.params=sharpen
+comment2.target=void\ setSharpenable(boolean)
+comment2.text=\r\n\ Mutator\ methods\ for\ HandTools\ \r\n\ \r\n
+comment3.params=
+comment3.target=void\ printDetails()
+comment4.params=s
+comment4.target=void\ readData(java.util.Scanner)
+comment4.text=\r\n\ This\ is\ intended\ to\ help\ HandTool\ extract\ its\ own\ data\ \r\n\ to\ store\ in\ its\ class\ fields\ and\ pass\ the\ remaining\ data\ to\ be\ stored\ in\ the\ \r\n\ superClass\ tool\ \r\n
+numComments=5

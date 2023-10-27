@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Workwear
+comment0.text=\r\n\ The\ class\ Workwear\ stores\ properties\ of\ the\ workwear\ items\ like\r\n\ gloves\ and\ other\ protective\ clothing\ in\ the\ shop.\r\n\ \r\n\ This\ class\ extends\ the\ Accesory\ class\r\n\ \r\n\ @author\ (Francois\ Ngwasho)\ \r\n\ @version\ (27-02-2022)\r\n
+comment1.params=
+comment1.target=java.lang.String\ getManStandard()
+comment1.text=\r\n\ Accessor\ methods\ for\ the\ class\ WorkWear\r\n
+comment2.params=
+comment2.target=java.lang.String\ getColour()
+comment3.params=
+comment3.target=java.lang.String\ getSize()
+comment4.params=manStandard
+comment4.target=void\ setManStandard(java.lang.String)
+comment4.text=\r\n\ Mutator\ methods\ for\ the\ class\ Perishable\r\n
+comment5.params=colour
+comment5.target=void\ setUseByDate(java.lang.String)
+comment5.text=\r\n\ Mutator\ methods\ for\ the\ class\ Perishable\r\n
+comment6.params=size
+comment6.target=void\ setVolume(java.lang.String)
+comment7.params=
+comment7.target=void\ printDetails()
+comment8.params=s
+comment8.target=void\ readData(java.util.Scanner)
+numComments=9

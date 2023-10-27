@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=ElectricTool
+comment0.text=\r\n\ This\ class\ models\ the\ electrical\ devices\ in\ the\ shop\ Class\r\n\ It\ contains\ the\ tools\ properties\ such\ as\ name,\ itemCode,\ number\ of\ times\ Borrowed\r\n\ onLoan,\ rechargeble,\ cost,\ weight\ and\ power.\r\n\ \r\n\ Some\ of\ the\ classes\ unique\ properties\ are\ declared\ in\ this\ class\ while\ the\ common\r\n\ Properties\ are\ inherited\ from\ the\ Tool\ superClass\r\n\ \r\n\ @author\ (Francois\ Ngwasho)\r\n\ @version\ (22-02-2023)\r\n
+comment1.params=
+comment1.target=boolean\ getRechargeable()
+comment1.text=\r\n\ Accessor\ method\ for\ Electric\ Tool\r\n\ \r\n\ that\ return\ The\ Electric\ fields\ values.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getPower()
+comment3.params=recharge
+comment3.target=void\ setRechargeable(boolean)
+comment3.text=\r\n\ Here\ is\ the\ Mutator\ methods\ for\ ElectricTool\ \r\n\ \r\n
+comment4.params=volts
+comment4.target=void\ setPower(java.lang.String)
+comment5.params=
+comment5.target=void\ printDetails()
+comment5.text=\r\n\ This\ method\ will\ Print\ details\ of\ Electric\ tool\ fields\ to\ the\ terminal\r\n\ \r\n\ and\ super\ calls\ the\ printDetails\ in\ the\ superClass\ Tools\r\n\ \ \ \ \ \ \ \ and\ print\ those\ values\ out\ before\ it\ prints\ out\ fields\ in\ this\ field\ \r\n\ \ \ \ \ \ \ \ The\ positioning\ of\ super\ does\ not\ matter\ \r\n
+comment6.params=sc
+comment6.target=void\ readData(java.util.Scanner)
+comment6.text=\r\n\ This\ method\ is\ intended\ to\ help\ ElectricTool\ extract\ its\ own\ data\ \r\n\ to\ store\ in\ its\ class\ fields\r\n
+numComments=7

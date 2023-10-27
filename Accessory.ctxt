@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Accessory
+comment0.text=\r\n\ This\ superClass\ stores\ common\ fields\ between\ the\ the\ subclasses\ \r\n\ Perishable\ and\ Workwear\ \r\n\ \r\n\ @author\ (Francois\ Ngwasho)\ \r\n\ @version\ (27-02-2023)\r\n
+comment1.params=
+comment1.target=boolean\ getPosition()
+comment1.text=\r\n\ Accessor\ methods\ for\ the\ Accessory\ Class\r\n
+comment2.params=position
+comment2.target=void\ setIs(java.lang.String)
+comment2.text=\r\n\ Mutator\ methods\ for\ the\ Accessory\ Class\r\n
+comment3.params=
+comment3.target=void\ printDetails()
+comment4.params=s
+comment4.target=void\ readData(java.util.Scanner)
+numComments=5

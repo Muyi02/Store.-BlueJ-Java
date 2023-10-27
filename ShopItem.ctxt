@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=ShopItem
+comment0.text=\r\n\ Here\ is\ the\ ShopItem\ class\ is\ the\ super\ class\ for\ subclass\ Tool\ and\ Accessory\ \r\n\ and\ also\ their\ indiviual\ subclasses\ \r\n\ \r\n\ and\ here\ is\ the\ fields\ for\ these\ three\ classes\ are\ itemCode,itemName\ and\ cost\r\n\ \r\n\ @author\ \ Francois\ Ngwasho\r\n\ @version\ (25-02-2022)\r\n
+comment1.params=
+comment1.target=java.lang.String\ getItemCode()
+comment1.text=\r\n\ Here\ is\ the\ accessors\ method\ for\ superClass\ ShopItem\r\n
+comment2.params=
+comment2.target=java.lang.String\ getItemName()
+comment3.params=
+comment3.target=int\ getCost()
+comment4.params=itemName
+comment4.target=void\ setItemCode(java.lang.String)
+comment4.text=\r\n\ Here\ is\ the\ \ Mutators\ methods\ for\ the\ superClass\ ShopItem\r\n
+comment5.params=itemCode
+comment5.target=void\ setItemName(java.lang.String)
+comment6.params=cost
+comment6.target=void\ setCost(int)
+comment7.params=
+comment7.target=void\ printDetails()
+comment8.params=s
+comment8.target=void\ readData(java.util.Scanner)
+numComments=9
